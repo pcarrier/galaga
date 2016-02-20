@@ -1,0 +1,16 @@
+{
+  "name": "galaga",
+  "version": "0.0.0",
+  "description": "Reserved for future use :)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcarrier/galaga.git"
+  },
+  "author": "Pierre Carrier <pierre@gcarrier.fr>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pcarrier/galaga/issues"
+  },
+  "homepage": "https://github.com/pcarrier/galaga#readme"
+}
